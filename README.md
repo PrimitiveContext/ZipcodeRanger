@@ -101,7 +101,7 @@ The `uszips.csv` dataset includes the following fields:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://simplemaps.com/data/license) file for details.
 
 ## Acknowledgments
 
